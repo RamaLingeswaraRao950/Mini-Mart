@@ -18,18 +18,10 @@ A dynamic e-commerce web application designed to simulate the functionalities of
 
 ## Installation
 
-1. Clone the repository: https://github.com/RamaLingeswaraRao950/Mini-Mart.git
+1. Clone the repository:   https://github.com/RamaLingeswaraRao950/Mini-Mart.git
   
-2. Navigate to the project directory: cd mini-mart
+2. Navigate to the project directory:   cd mini-mart
    
-3. Install the dependencies: npm install
+3. Install the dependencies:   npm install
    
-4. Start the development server: npm start
-
-## Usage
-
-- Visit the homepage to explore products.
-- Use the search bar to find specific items.
-- Register or sign in to manage your account and track orders.
-- Add items to your cart, adjust quantities and proceed to checkout.
- 
+4. Start the development server:   npm start
